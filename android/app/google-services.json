@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "282016553096",
+    "firebase_url": "https://whoscalling-15c91.firebaseio.com",
+    "project_id": "whoscalling-15c91",
+    "storage_bucket": "whoscalling-15c91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282016553096:android:b88a105bc8445ca6eba73d",
+        "android_client_info": {
+          "package_name": "com.app.numberbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282016553096-vlkcb72vnmjhanqdo9v0j3oa7r1o6lm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.numberbook",
+            "certificate_hash": "52fd3f1d04ae92b982a9c6d08d5e9038933ae212"
+          }
+        },
+        {
+          "client_id": "282016553096-1s43n3aj7nuks3nv41dr203rps6t2p4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtrOBbiQ03-z_7m2ZlRpNR_F_Y9Esjb80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282016553096-1s43n3aj7nuks3nv41dr203rps6t2p4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
